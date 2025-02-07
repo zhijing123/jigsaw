@@ -11,11 +11,11 @@
 Customize and select the required penetration testing plugins for automated and batch testing。
 自定义选用所需的渗透测试插件，进行自动化和批量化测试
 
-二、使用教程
-在使用前安装subprocess包，pip install subprocess
-1.在target.txt填入你想要进行测试的ip地址
-2.在command中写入你想要执行的命令
-3.可以在pyhton终端和result中查看执行结果
+二、使用教程  
+在使用前安装subprocess包，pip install subprocess  
+1.在target.txt填入你想要进行测试的ip地址  
+2.在command中写入你想要执行的命令  
+3.可以在pyhton终端和result中查看执行结果  
 
 三、范例
 
