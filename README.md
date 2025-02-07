@@ -8,7 +8,7 @@
     您的下载、安装、使用等行为即视为您已阅读并同意上述协议的约束
 
 
-Customize and select the required penetration testing plugins for automated and batch testing。
+Customize and select the required penetration testing plugins for automated and batch testing.  
 自定义选用所需的渗透测试插件，进行自动化和批量化测试
 
 二、使用教程  
